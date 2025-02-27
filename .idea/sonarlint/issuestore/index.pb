@@ -9,3 +9,5 @@ Z
 *tests/entanglement-pair-generation.test.ts,7/d/7dfea4022dbd9aff495faa0ee573dd8a8e1152c5
 Z
 *contracts/quantum-state-teleportation.clar,e/8/e86b0770e4f425bcbec5bb6b6cb40d320f6b1334
+Y
+)tests/quantum-state-teleportation.test.ts,d/1/d1adbc23bc7fcd9ff2e214bcad7b20cb0a7b005a
