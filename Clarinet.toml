@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/entanglement-pair-generation.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.quantum-state-teleportation]
+path = 'contracts/quantum-state-teleportation.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
